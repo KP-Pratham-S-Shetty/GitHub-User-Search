@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
+
+### GitHub User Search
+
+**GitHub User Search** is a project built to explore and learn the fundamentals of RxJS observables in Angular. It features a GitHub user search functionality that demonstrates the power of reactive programming by filtering input values and making asynchronous API calls.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
